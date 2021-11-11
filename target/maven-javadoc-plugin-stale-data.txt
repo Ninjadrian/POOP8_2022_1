@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP8 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP8 1.0-SNAPSHOT API'
+com.mycompany.poop8
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/CuadrilateroA.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/CuadrilateroC.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/Flauta.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/InstrumentoMusical.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/InstrumentoViento.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/Main.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/Meses.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/PoligonoA.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/PoligonoC.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/TrianguloA.java'
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP8/src/main/java/com/mycompany/poop8/TrianguloC.java'
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\src\main\java = 1636031626553
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\allclasses-frame.html = 1636606102693
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\allclasses-noframe.html = 1636606102695
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\constant-values.html = 1636606101931
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\deprecated-list.html = 1636606102688
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\help-doc.html = 1636606102773
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\index-all.html = 1636606102682
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\index.html = 1636606102730
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\overview-tree.html = 1636606102571
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\package-list = 1636606101826
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\script.js = 1636606102812
+C:\Users\lenovo\Documents\NetBeansProjects\POOP8\target\site\apidocs\stylesheet.css = 1636606050181
